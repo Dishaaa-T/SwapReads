@@ -207,3 +207,10 @@ h1, h2, h3 {
   }
 }
 
+label.newsletter-form{
+  color: var(--charcoal);
+}
+
+h2.links {
+  color: var(--charcoal);
+}
