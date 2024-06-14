@@ -3469,6 +3469,7 @@ body.dark-mode .h3 {
 
 /* Adding media queries for benifits */
 
+<<<<<<< HEAD
 /* @media screen and(min-width: ) {
   .benefits .grid-list
   {
@@ -3476,3 +3477,6 @@ body.dark-mode .h3 {
   }
   
 } */
+=======
+
+>>>>>>> ab1e80434127b6c1fa42ed936b491124e2b9c213
